@@ -1,1 +1,1 @@
-My directory  readme
+starting with git
